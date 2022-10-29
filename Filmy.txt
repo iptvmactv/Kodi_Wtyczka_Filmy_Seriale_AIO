@@ -1,0 +1,31 @@
+<item>
+<title>[B]Na Zachodzie bez zmian (2022)[/B]</title>
+<link>https://hhostss.com/stream/v1/playlist/eyJ0cyI6MTY2NzA0MDkxMCwidSI6MzUxOSwiZnJlZSI6MCwiY2hrIjoiYmY5Njk2MjdlYzI4ZTU4MjMzZjk4MGM3NDUwMjhiMmIifQ/0/play/be00e9b8f33d3ddb59c64f74883f0738/index-f3-v1-a1.m3u8</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hYqOjJ7Gh1fbqXrxlIao1g8ZehF.jpg</thumbnail> male zdjencie
+<fanart>https://i.ytimg.com/vi/bXYBhhlHDX8/maxresdefault.jpg</fanart> duze zdjencie
+<info>„Na Zachodzie bez zmian” to porywająca opowieść o młodym niemieckim żołnierzu na froncie zachodnim podczas I wojny światowej. Paul i jego towarzysze na własnej skórze doświadczają, jak początkowa euforia wojny przemienia się w desperację i strach, gdy walczą w okopach o swoje życie. Film w reżyserii Edwarda Bergera jest oparty na znanej na całym świecie powieści Ericha Marii Remarque’a pod tym samym tytułem. opis dystrybutora</info>
+</item>
+
+<item>
+<title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail> male zdjencie
+<fanart></fanart> duze zdjencie
+<info></info>
+</item>
+
+<item>
+<title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail> male zdjencie
+<fanart></fanart> duze zdjencie
+<info></info>
+</item>
+
+<item>
+<title>[B][/B]</title>
+<link></link>
+<thumbnail></thumbnail> male zdjencie
+<fanart></fanart> duze zdjencie
+<info></info>
+</item>
