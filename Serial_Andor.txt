@@ -1,0 +1,64 @@
+
+<item>
+<title>[B]Season 01 Odcinek 01[/B]</title>
+<link>https://hhostss.com/stream/v1/playlist/eyJ0cyI6MTY2NTgwNjEyMSwidSI6MzUxOSwiZnJlZSI6MCwiY2hrIjoiZTExZDE5OTU4YjFiMTlkOTI2ZGE0MmY1YmM2NzZhODMifQ/0/play/97090aa1108c5f1479bc0e4214bf6508/index-f1-v1-a1.m3u8</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8L2zypVXvQL3XaQ4YSn9sNNY8TB.jpg</thumbnail> male zdjencie
+<fanart>https://digitalt.tv/wp-content/uploads/2022/06/Star-Wars-Andor-Disney.jpg</fanart> duze zdjencie
+<info></info>
+</item>
+
+<item>
+<title>[B]Season 01 Odcinek 02[/B]</title>
+<link>https://hhostss.com/stream/v1/playlist/eyJ0cyI6MTY2NTgwNjE4OSwidSI6MzUxOSwiZnJlZSI6MCwiY2hrIjoiZTdhNzUyODRjYWZiZTFjZDZhNmQyYTZkNDk5ZDg3NWYifQ/0/play/995e541e5dc6245c68635f2ad60b577a/index-f1-v1-a1.m3u8</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8L2zypVXvQL3XaQ4YSn9sNNY8TB.jpg</thumbnail> male zdjencie
+<fanart>https://digitalt.tv/wp-content/uploads/2022/06/Star-Wars-Andor-Disney.jpg</fanart> duze zdjencie
+<info></info>
+</item>
+
+<item>
+<title>[B]Season 01 Odcinek 03[/B]</title>
+<link>https://hhostss.com/stream/v1/playlist/eyJ0cyI6MTY2NTgwNjE5OSwidSI6MzUxOSwiZnJlZSI6MCwiY2hrIjoiNDdiNmZhMWRiZDU0Yjc2NGMyNTUyY2NlZDUxMGQwYjIifQ/0/play/84780c98f5af7cb2641d5d02c31ebbb9/index-f1-v1-a1.m3u8</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8L2zypVXvQL3XaQ4YSn9sNNY8TB.jpg</thumbnail> male zdjencie
+<fanart>https://digitalt.tv/wp-content/uploads/2022/06/Star-Wars-Andor-Disney.jpg</fanart> duze zdjencie
+<info></info>
+</item>
+
+<item>
+<title>[B]Season 01 Odcinek 04[/B]</title>
+<link>https://hhostss.com/stream/v1/playlist/eyJ0cyI6MTY2NTgwNjIwOCwidSI6MzUxOSwiZnJlZSI6MCwiY2hrIjoiM2QyMmI2MTIzMWQwZWQ2NDBlNmQ2ZDlkYmE0MjAyY2EifQ/0/play/0a68a832da0486622cd23075ed6ab215/index-f1-v1-a1.m3u8</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8L2zypVXvQL3XaQ4YSn9sNNY8TB.jpg</thumbnail> male zdjencie
+<fanart>https://digitalt.tv/wp-content/uploads/2022/06/Star-Wars-Andor-Disney.jpg</fanart> duze zdjencie
+<info></info>
+</item>
+
+<item>
+<title>[B]Season 01 Odcinek 05[/B]</title>
+<link>https://hhostss.com/stream/v1/playlist/eyJ0cyI6MTY2NTgwNjIxOCwidSI6MzUxOSwiZnJlZSI6MCwiY2hrIjoiMzA4NTk0ODRlNTJmNzhlOGE1ZTIxMTRiZTBjYTdjNGIifQ/0/play/e8d1b9556a71e118265f90d948d6f20f/index-f1-v1-a1.m3u8</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8L2zypVXvQL3XaQ4YSn9sNNY8TB.jpg</thumbnail> male zdjencie
+<fanart>https://digitalt.tv/wp-content/uploads/2022/06/Star-Wars-Andor-Disney.jpg</fanart> duze zdjencie
+<info></info>
+</item>
+
+<item>
+<title>[B]Season 01 Odcinek 06[/B]</title>
+<link>https://hhostss.com/stream/v1/playlist/eyJ0cyI6MTY2NTg2NTc4MSwidSI6MzUxOSwiZnJlZSI6MCwiY2hrIjoiZGVmMDhjN2UyYjdiNTQ4NWEzYjAzOTE1NGJjNWY2ZjAifQ/0/play/b89d2a72f8f9f4e3cc69acb0b18b542c/index-f1-v1-a1.m3u8</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8L2zypVXvQL3XaQ4YSn9sNNY8TB.jpg</thumbnail> male zdjencie
+<fanart>https://digitalt.tv/wp-content/uploads/2022/06/Star-Wars-Andor-Disney.jpg</fanart> duze zdjencie
+<info></info>
+</item>
+<item>
+
+<title>[B]Season 01 Odcinek 07[/B]</title>
+<link>https://hhostss.com/stream/v1/playlist/eyJ0cyI6MTY2NjM2NDkzMCwidSI6MzUxOSwiZnJlZSI6MCwiY2hrIjoiZTBkMGNlMmE5N2YyZWMzYjM3ZTc1MDQ0MWFjYTg1MTgifQ/0/play/eaa5de1ccc90feb0a2bb20389f6dadcc/index-f1-v1-a1.m3u8</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8L2zypVXvQL3XaQ4YSn9sNNY8TB.jpg</thumbnail> male zdjencie
+<fanart>https://digitalt.tv/wp-content/uploads/2022/06/Star-Wars-Andor-Disney.jpg</fanart> duze zdjencie
+<info></info>
+</item>
+
+<item>
+<title>[B]Season 01 Odcinek 08[/B]</title>
+<link>https://hhostss.com/stream/v1/playlist/eyJ0cyI6MTY2Njg3MjM5NiwidSI6NDcwMSwiZnJlZSI6MCwiY2hrIjoiMzRiODA1YWExNDYzMjk4MTA1MjFlZTliNWZlNmFiNDAifQ/0/play/9ead29f9d354768e5f2a8532c10f3e6b/index-f1-v1-a1.m3u8</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8L2zypVXvQL3XaQ4YSn9sNNY8TB.jpg</thumbnail> male zdjencie
+<fanart>https://digitalt.tv/wp-content/uploads/2022/06/Star-Wars-Andor-Disney.jpg</fanart> duze zdjencie
+<info></info>
+</item>
